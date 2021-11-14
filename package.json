@@ -1,0 +1,39 @@
+{
+  "name": "reanimated-painter",
+  "title": "Reanimated Painter",
+  "version": "1.0.0",
+  "description": "Animated Painter Web Android IOS",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "src",
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Only-IceSoul/ReanimatedPainter.git",
+    "baseUrl": "https://github.com/Only-IceSoul/ReanimatedPainter"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Juan J LF",
+    "email": "justinjlf21@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
